@@ -28,7 +28,7 @@ function Footer() {
             Politique de confidentialité
           </a>
 
-          <a href="mailto:tonadresse@email.com" className="footer__link">
+          <a href="mailto:wintzer.magaly@gmail.com" className="footer__link">
             Contact
           </a>
         </div>
