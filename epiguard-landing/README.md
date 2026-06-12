@@ -1,16 +1,47 @@
-# React + Vite
+# EpiGuard Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site de présentation officiel du projet **EpiGuard**.
 
-Currently, two official plugins are available:
+Ce projet a pour objectif de présenter l’application mobile EpiGuard, d’expliquer son fonctionnement, de rassurer les utilisateurs et de recruter des testeurs pour la phase de test de l’application Android.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Présentation du projet
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**EpiGuard** est une application mobile Android en cours de développement/test, pensée pour aider les utilisateurs à rassurer leurs proches grâce à un système d’alerte paramétrable.
 
-## Expanding the ESLint configuration
+Le site `epiguard_site` sert de support de communication autour de l’application.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Il permet notamment de :
+
+- présenter le concept d’EpiGuard ;
+- expliquer le fonctionnement général de l’application ;
+- informer les futurs utilisateurs ;
+- recruter des testeurs Android ;
+- centraliser les demandes de participation au test ;
+- rassurer sur la confidentialité et l’usage des données.
+
+---
+
+## Rôle du site
+
+Ce site ne remplace pas l’application mobile EpiGuard.
+
+Il a pour rôle de soutenir le projet principal en servant de :
+
+- page de présentation ;
+- vitrine officielle ;
+- support d’information ;
+- page de recrutement de testeurs ;
+- point de contact pour les personnes intéressées.
+
+L’application mobile reste développée dans un dépôt séparé.
+
+---
+
+## Dépôts liés
+
+Application mobile EpiGuard :
+
+```txt
+https://github.com/magaly68/epilepsy-guard
