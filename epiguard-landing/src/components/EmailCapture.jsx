@@ -10,7 +10,7 @@ function EmailCapture() {
           <h2 className="email__title">Merci ✨</h2>
 
           <p className="email__subtitle">
-            Votre inscription à l’accès anticipé d’ProxiVeille a bien été prise en compte.
+            Votre inscription à l’accès anticipé deProxiVeille a bien été prise en compte.
           </p>
 
           <p className="email__note">
