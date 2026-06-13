@@ -9,10 +9,10 @@ export default defineConfig({
       registerType: 'autoUpdate',
 
       manifest: {
-        name: 'EpiGuard',
-        short_name: 'EpiGuard',
+        name: 'ProxiVeille',
+        short_name: 'ProxiVeille',
         description:
-          'Site de présentation et de recrutement de testeurs pour l’application EpiGuard.',
+          'Site de présentation et de recrutement de testeurs pour l’application ProxiVeille.',
         theme_color: '#2563eb',
         background_color: '#ffffff',
         display: 'standalone',

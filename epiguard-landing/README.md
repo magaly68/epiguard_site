@@ -1,20 +1,26 @@
-# EpiGuard Site
+# ProxiVeille Site
 
-Site de présentation officiel du projet **EpiGuard**.
+Site de présentation officiel du projet **ProxiVeille**.
 
-Ce projet a pour objectif de présenter l’application mobile EpiGuard, d’expliquer son fonctionnement, de rassurer les utilisateurs et de recruter des testeurs pour la phase de test de l’application Android.
+Ce projet a pour objectif de présenter l’application mobile ProxiVeille, d’expliquer son fonctionnement, de rassurer les utilisateurs et de recruter des testeurs pour la phase de test de l’application Android.
 
 ---
 
 ## Présentation du projet
 
-**EpiGuard** est une application mobile Android en cours de développement/test, pensée pour aider les utilisateurs à rassurer leurs proches grâce à un système d’alerte paramétrable.
+## Présentation
 
-Le site `epiguard_site` sert de support de communication autour de l’application.
+ProxiVeille est une application Android en phase de test, conçue pour aider les utilisateurs à prévenir un contact de confiance en cas de situation inhabituelle.
+
+Ce site sert de page officielle de présentation, d’information et de recrutement de testeurs pour l’application.
+
+ProxiVeille n’est pas un dispositif médical et ne remplace pas une prise en charge professionnelle.
+
+Le site `ProxiVeille_site` sert de support de communication autour de l’application.
 
 Il permet notamment de :
 
-- présenter le concept d’EpiGuard ;
+- présenter le concept d’ProxiVeille ;
 - expliquer le fonctionnement général de l’application ;
 - informer les futurs utilisateurs ;
 - recruter des testeurs Android ;
@@ -25,7 +31,7 @@ Il permet notamment de :
 
 ## Rôle du site
 
-Ce site ne remplace pas l’application mobile EpiGuard.
+Ce site ne remplace pas l’application mobile ProxiVeille.
 
 Il a pour rôle de soutenir le projet principal en servant de :
 
@@ -41,7 +47,7 @@ L’application mobile reste développée dans un dépôt séparé.
 
 ## Dépôts liés
 
-Application mobile EpiGuard :
+Application mobile ProxiVeille :
 
 ```txt
 https://github.com/magaly68/epilepsy-guard

@@ -3,7 +3,7 @@ function Features() {
     {
       title: "Surveillance de l’activité",
       description:
-        "EpiGuard analyse les mouvements de votre téléphone pour repérer une situation inhabituelle.",
+        "ProxiVeille analyse les mouvements de votre téléphone pour repérer une situation inhabituelle.",
     },
     {
       title: "Alerte rapide",
@@ -26,7 +26,7 @@ function Features() {
     <section className="features">
       <div className="features__header">
         <p className="features__tag">Fonctionnalités</p>
-        <h2 className="features__title">Comment EpiGuard vous accompagne</h2>
+        <h2 className="features__title">Comment ProxiVeille vous accompagne</h2>
         <p className="features__subtitle">
           Une application pensée pour vous aider à rester en lien avec vos
           proches et réagir plus vite en cas de situation inhabituelle.

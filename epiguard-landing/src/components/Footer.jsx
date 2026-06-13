@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer__container">
         <div className="footer__brand">
-          <h2 className="footer__logo">EpiGuard</h2>
+          <h2 className="footer__logo">ProxiVeille</h2>
           <p className="footer__description">
             Une application pensée pour aider à alerter rapidement un proche en
             cas de situation inhabituelle.
@@ -35,7 +35,7 @@ function Footer() {
       </div>
 
       <div className="footer__bottom">
-        <p>© 2026 EpiGuard. Tous droits réservés.</p>
+        <p>© 2026 ProxiVeille. Tous droits réservés.</p>
       </div>
     </footer>
   );

@@ -11,7 +11,7 @@ function Hero() {
           </h1>
 
           <p className="hero__subtitle">
-            EpiGuard permet d’alerter rapidement un proche en cas de situation
+            ProxiVeille permet d’alerter rapidement un proche en cas de situation
             inhabituelle, même lorsque vous êtes seul à l’extérieur.
           </p>
 
@@ -33,7 +33,7 @@ function Hero() {
         <div className="hero__visual">
           <img
             src="/src/assets/screenshots/home.jpg"
-            alt="Aperçu application EpiGuard"
+            alt="Aperçu application ProxiVeille"
           />
         </div>
 

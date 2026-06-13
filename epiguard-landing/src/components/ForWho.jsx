@@ -10,9 +10,9 @@ function ForWho() {
       <div className="for-who__container">
         <div className="for-who__content">
           <p className="for-who__tag">Pour qui</p>
-          <h2 className="for-who__title">Pour qui est EpiGuard ?</h2>
+          <h2 className="for-who__title">Pour qui est ProxiVeille ?</h2>
           <p className="for-who__subtitle">
-            EpiGuard s’adresse en priorité aux personnes épileptiques qui
+            ProxiVeille s’adresse en priorité aux personnes épileptiques qui
             souhaitent se sentir plus en sécurité lorsqu’elles sont seules,
             notamment à l’extérieur.
           </p>

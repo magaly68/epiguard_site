@@ -10,7 +10,7 @@ function EmailCapture() {
           <h2 className="email__title">Merci ✨</h2>
 
           <p className="email__subtitle">
-            Votre inscription à l’accès anticipé d’EpiGuard a bien été prise en compte.
+            Votre inscription à l’accès anticipé d’ProxiVeille a bien été prise en compte.
           </p>
 
           <p className="email__note">
@@ -25,7 +25,7 @@ function EmailCapture() {
     <section className="email" id="email">
       <div className="email__container">
         <h2 className="email__title">
-          Soyez parmi les premiers à tester EpiGuard
+          Soyez parmi les premiers à tester ProxiVeille
         </h2>
 
         <p className="email__subtitle">
